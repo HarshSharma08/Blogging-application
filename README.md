@@ -3,7 +3,6 @@
 ## I'm a Student, Developer, and Learner!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m learning as much as possible 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sketch
 
