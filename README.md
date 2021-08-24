@@ -1,4 +1,4 @@
-### Hi there, I'm Harsh - aka [Blogging][website] 👋
+### Hi there, I'm Harsh  [Blogging][website] 👋
 
 ## I'm a Student, Developer, and Learner!!
 
