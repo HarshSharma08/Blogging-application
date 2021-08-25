@@ -6,8 +6,6 @@
 
 [<img align="left" alt="Harsh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Harsh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[instagram]: https://instagram.com/__harsh___sharma/
-[linkedin]: https://linkedin.com/in/harsh-sharma-a45226196
 
 
 <br />
@@ -126,3 +124,6 @@ You can get glance of random six blogs together and for furthur information yo h
  
   ## Author
   - Harsh Sharma - [harshsharma08](https://github.com/HarshSharma08/)
+
+[instagram]: https://instagram.com/__harsh___sharma/
+[linkedin]: https://linkedin.com/in/harsh-sharma-a45226196
