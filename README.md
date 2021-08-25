@@ -92,7 +92,7 @@ You can get glance of random six blogs together and for furthur information yo h
 </p>
  
  
- - 'Wanna add post`
+- `Wanna add post`
    - Developers can post their Blogs themselves and these blogs are managed according to userid each user having different id.
 <p align="center">
  <img height=350px  src="src/img/8.png" >
