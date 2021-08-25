@@ -13,7 +13,8 @@
 - Does Everything for Knowledge : Sharing Code,Experience and Recent activities related to technical topics .
 - Thus this is a modern and hassle-free solution to share knowledge and help fellow developers!
 <br>
- ## Insight
+ 
+ ## Insight : 
 - It is Web App using JSP/Servlet in MVC pattern.
 - Back-End has divided into four sections Dao,entities,helper,servlets.
 - Front-end of our Web-App is made with Html,Css,JavaScript,ajax,BootStrap.
@@ -22,6 +23,7 @@
  <img height=350px  src="./img/screens/encryt.PNG" >
 </p>
 <br>
+ 
 ## How to Use
 
 ### Login
