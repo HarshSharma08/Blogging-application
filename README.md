@@ -70,17 +70,18 @@ You can get glance of random six blogs together and for furthur information yo h
  
 - `Edit - Profile`
     - With help of edit profile user can change password, profile picture, Name, Email-id.
-  <p align="center">
+<p align="center">
  <img height=350px  src="src/img/6.png" >
 </p>
- <p align="center">
+ 
+<p align="center">
  <img height=350px  src="src/img/7.png" >
 </p>
  
  
  - 'Wanna add post`
    - Developers can post their Blogs themselves and these blogs are managed according to userid each user having different id.
-  <p align="center">
+<p align="center">
  <img height=350px  src="src/img/8.png" >
 </p>
  
