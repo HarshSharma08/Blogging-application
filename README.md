@@ -40,6 +40,7 @@ You can get glance of random six blogs together and for furthur information yo h
   - EMAIL
   - PASSWORD
   - GENDER
+ 
  This web application is not only about blogs here user can manage profile also.
   
 <p align="center">
@@ -110,4 +111,4 @@ You can get glance of random six blogs together and for furthur information yo h
 </p>
  
   ## Author
-  - Harsh Sharma - [harshsharma-hs](https://github.com/HarshSharma08/)
+  - Harsh Sharma - [harshsharma08](https://github.com/HarshSharma08/)
