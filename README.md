@@ -1,59 +1,9 @@
-### Hi there, I'm Harsh  [Blogging][website] 👋
-
-## I'm a Student, Developer, and Learner!!
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sketch
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-<br />
-<br />
-
----
-
-### 📕 Characterstics.....
-
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-
-</details>
-
-
-[instagram]: https://instagram.com/__harsh___sharma/
-[linkedin]: https://linkedin.com/in/harsh-sharma-a45226196
-
-
-
-
 <p align="center">
  
 <img height=200px src="./src/logo/logo.jpeg" >         
         </p>
-<h1 align="center"> E-Certify </h1>
-<h3 align="center"> Blockchain Based Certificate Validation <h3>
+<h1 align="center"> Blogging application </h1>
+<h3 align="center"> JAVA Based Blogs Management application <h3>
   
 
 <div align="center">
@@ -68,25 +18,20 @@
   
  </div>
 
-##  E-Certify : About
-- It is a blockchain based project for online certificate validation. 
-- The major problem of counterfeit certificates can be tackled with the help of E-Certify, as it provides a solution to preserve the       genuineness of a certificate. 
-- It works on the idea that: “Only the issuer can upload the certificate and the rest people can only view  it.” The entire process       works on the blockchain in partnership with the IPFS(to provide data security). 
-- Does Everything for Certificates : Storing ,Validating and Sharing .
-- Thus this is a modern and hassle-free solution to manage certificates and verify them!
-- This Project was made at SIH 2019
+##  Blogging application : About
+- It is a JSP/Servlet based project for Blogs. 
+- The major idea of sharing knowledge with others with the help of Blogs, as it provides a opportunity to learn from senior developers. 
+- It works on the idea that: “User can share past experiences and common error's and can be used as a general blogs.”.
+- Does Everything for Knowledge : Sharing Code,Experience and Recent activities related to technical topics .
+- Thus this is a modern and hassle-free solution to share knowledge and help fellow developers!
 ## Insight
-- It is D-App on [Ethereum](https://www.ethereum.org/).
-- Back-End has Smart Contract 
-- Front-end of our Web-App is made with [React.Js](https://github.com/facebook/create-react-app) and our complete frontend components are available at [@gauravsharma-gs](https://github.com/gauravsharma-gs)  /dapper-ui   ([visit](https://github.com/gauravsharma-gs/dapper-ui))   
-- All User-Data is stored on [IPFS](https://ipfs.io/) also every data is first encryted locally and then send to ipfs to have more security
+- It is Web App using JSP/Servlet in MVC pattern.
+- Back-End has divided into four sections Dao,entities,helper,servlets.
+- Front-end of our Web-App is made with Html,Css,JavaScript,ajax,BootStrap.
+- All User-Data is stored on MYSQL Database named technicalblog having four tables are categories,liked,posts,user
 <p align="center">
  <img height=350px  src="./img/screens/encryt.PNG" >
 </p>
-
-- It create Multi-Sig Wallets for every student where both Student and his/her Institute is Owner.
-- We are using [Metamask](https://metamask.io/) Browser Extension to work with Ethereum.
-- We have used [Truffle](https://www.trufflesuite.com/) for testing our project
 
 ## How to Use
 
