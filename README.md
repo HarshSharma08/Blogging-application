@@ -6,25 +6,14 @@
 <h3 align="center"> JAVA Based Blogs Management application <h3>
   
 
-<div align="center">
-  
- 
-  [![made-with-react](https://img.shields.io/badge/React-2.1.5-brightgreen.svg?style=for-the-badge)](https://github.com/facebook/create-react-app)
-   [![](https://img.shields.io/badge/-Ethereum-lightgrey.svg?style=for-the-badge)](https://www.ethereum.org/)
-    ![](https://img.shields.io/badge/Smart%20-Contract-lightgrey.svg?style=for-the-badge)
- ![](https://img.shields.io/github/forks/nikhildsahu/E-Certify.svg?style=for-the-badge) 
-  ![](https://img.shields.io/github/stars/nikhildsahu/E-Certify.svg?style=for-the-badge) 
-  ![](https://img.shields.io/github/license/nikhildsahu/E-Certify.svg?style=for-the-badge)
-  
- </div>
-
 ##  Blogging application : About
 - It is a JSP/Servlet based project for Blogs. 
 - The major idea of sharing knowledge with others with the help of Blogs, as it provides a opportunity to learn from senior developers. 
 - It works on the idea that: “User can share past experiences and common error's and can be used as a general blogs.”.
 - Does Everything for Knowledge : Sharing Code,Experience and Recent activities related to technical topics .
 - Thus this is a modern and hassle-free solution to share knowledge and help fellow developers!
-## Insight
+<br>
+ ## Insight
 - It is Web App using JSP/Servlet in MVC pattern.
 - Back-End has divided into four sections Dao,entities,helper,servlets.
 - Front-end of our Web-App is made with Html,Css,JavaScript,ajax,BootStrap.
@@ -32,7 +21,7 @@
 <p align="center">
  <img height=350px  src="./img/screens/encryt.PNG" >
 </p>
-
+<br>
 ## How to Use
 
 ### Login
@@ -98,4 +87,4 @@
    - Student requests for change of institute appear here .
     
   ## Author
-  - Harsh Sharma - [gauravsharma-gs](https://github.com/HarshSharma08/)
+  - Harsh Sharma - [harshsharma-hs](https://github.com/HarshSharma08/)
