@@ -1,6 +1,6 @@
 <p align="center">
  
-<img height=200px src="./src/logo/logo.jpeg" >         
+<img height=200px src="./src/Blog.png" >         
         </p>
 <h1 align="center"> Blogging application </h1>
 <h3 align="center"> JAVA Based Blogs Management application <h3>
