@@ -20,7 +20,7 @@
 - Front-end of our Web-App is made with Html,Css,JavaScript,ajax,BootStrap.
 - All User-Data is stored on MYSQL Database named technicalblog having four tables are categories,liked,posts,user
 <p align="center">
- <img height=350px  src="./img/screens/encryt.PNG" >
+ <img height=350px  src="src/img/1.png" >
 </p>
 <br>
  
