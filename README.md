@@ -26,67 +26,87 @@
  
 ## How to Use
 
-### Login
-- There are two ways to login
-  - Login as `Student`
-  - Login as `Institute`
+### Recent Blogs 
+You can get glance of random six blogs together and for furthur information yo have to signup
+
+<p align="center">
+ <img height=350px  src="src/img/2.png" >
+ </p>
+
+ 
+### SignUp
+- First you have to SignUp by providing some information about yourself
+  - NAME
+  - EMAIL
+  - PASSWORD
+  - GENDER
+ This web application is not only about blogs here user can manage profile also.
   
 <p align="center">
- <img height=350px  src=".//img/s1.png" >
+ <img height=350px  src="src/img/4.png" >
 </p>
 
- - Upon First Signup `Metamask` will ask permission to connect your wallet with App.
+ - Upon First Signup it will redirect you to login page.
  
  <p align="center">
- <img height=350px  src=".//img/s17.png" >
+ <img height=350px  src="src/img/3.png" >
 </p>
+ 
+ - Upon First Signup if your's credential does'nt match then it will redirect you to login page with message to try again.
+ 
+ <p align="center">
+ <img height=350px  src="src/img/11.png" >
+</p>
+ 
 
-- There is an additional security by using `OTP` for Signup .   
-- For `Student`  
-   -Student need to connect their account with their Institute by giving Institute Address Key .
-- For `Institute`  
-   -Student will to connect their account with Institute.
-   
 ### Dashboard
 
- #### Student Dashboard
- 
+ After you successfully login you can redirect to Profile page 
  <p align="center">
- <img height=350px  src=".//img/s8.png" >
+ <img height=350px  src="src/img/5.png" >
 </p>
 
-- Student Dashboard have these options :
+- Dashboard have these options :
  
- - `My Documents`
-   - Students can upload their Certificates themselves but these certificates need to be verified by Institute side ,only then                 certificates will appear in my documents section.
- 
- - `Give Access`
-    - Students can give access to any other institute/organisation to his/her certificates , access is only given for limited time             (24hr)
- 
- - `Change Institute` 
-    - Students can request change of institute , this request is sent to current institute ,Upon approval students institute is changed. 
-   
- #### Institute Dashboard
- 
+- `Edit - Profile`
+    - With help of edit profile user can change password, profile picture, Name, Email-id.
+  <p align="center">
+ <img height=350px  src="src/img/6.png" >
+</p>
  <p align="center">
- <img height=350px  src=".//img/s11.png" >
+ <img height=350px  src="src/img/7.png" >
 </p>
  
- - Institute Dashboard have these options :
  
- - `Linked Accouts`
-   - In this section all student accounts linked to institute are shown.
-   - Institute can students certificates from here.
-   - Also institute can upload new certificates to students from here.
-  
-  - `Access Rights`
-    - It shows all the student accounts to whom institute has access ,to see their certificates.
-  
-  - `Pending Approvals`
-    - Student requests for certificates approvals appear here .
+ - 'Wanna add post`
+   - Developers can post their Blogs themselves and these blogs are managed according to userid each user having different id.
+  <p align="center">
+ <img height=350px  src="src/img/8.png" >
+</p>
  
- - `Change Institute Approvals`
-   - Student requests for change of institute appear here .
-    
+ - `Search`
+    - With help of search developers can search blogs according to their intrest.
+  <p align="center">
+ <img height=350px  src="src/img/5.png" >
+</p>
+ 
+ - `Categories` 
+    - Every time when post is added it is saved to a particular category for example java related blog will inside java category. 
+ <p align="center">
+ <img height=350px  src="src/img/12.png" >
+</p>
+ 
+  - `Like Blog` 
+    - Each blog have it's own likes If developer's having develops intrest or enjoy reading blog they can like the particular blog. 
+ <p align="center">
+ <img height=350px  src="src/img/10.png" >
+</p>
+ 
+ - `View Blog` 
+    - For full post developer can click read more option where he can see author name, date and code(if any). 
+ <p align="center">
+ <img height=350px  src="src/img/9.png" >
+</p>
+ 
   ## Author
   - Harsh Sharma - [harshsharma-hs](https://github.com/HarshSharma08/)
